@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.venv/
+.venv-gpu/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
